@@ -1,8 +1,26 @@
-C++	Languages		1.8	ADOPT
+C++ (MSVC)	Languages		1.8	ADOPT
 Scala	Languages		1.8	ADOPT
-Agile	Techniques; Frameworks & Tools		2	ADOPT
+Agile SW Dev	Techniques; Frameworks & Tools		2	ADOPT
 Micro Services	Techniques; Frameworks & Tools		2	ADOPT
 Docker	Platforms & Infrastructure		1.8	ADOPT
 Mesos	Platforms & Infrastructure		2	ADOPT
 Spark	Data Mgt		1	TRIAL
-Databricks	Data Mgt		0.5	TRIAL
+Databricks	Data Mgt		-0.5	ASSESS
+Elixir	Languages		-0.5	ASSESS
+Go	Languages		1	TRIAL
+JavaScript	Languages		-1.8	HOLD
+TypeScript	Languages		1.4	TRIAL
+C++ (clang)	Languages		1.8	ADOPT
+Kafka	Platforms & Infrastructure		1.6	ADOPT
+Postgres	Platforms & Infrastructure		1.8	ADOPT
+AWS EC2	Platforms & Infrastructure		1.8	ADOPT
+AWS S3	Platforms & Infrastructure		1.8	ADOPT
+Azure	Platforms & Infrastructure		-0.5	ASSESS
+AWS Lambda 	Platforms & Infrastructure		-0.5	ASSESS
+AWS Kenesis	Platforms & Infrastructure		-0.5	ASSESS
+AWS SQS	Platforms & Infrastructure		0.5	TRIAL
+Reactive Systems	Techniques; Frameworks & Tools		1.6	ADOPT
+Software Craftmanship	Techniques; Frameworks & Tools		1.6	ADOPT
+Software Gardening	Techniques; Frameworks & Tools		1.8	ADOPT
+Data Pipelines	Techniques; Frameworks & Tools		-0.5	ASSESS
+Blockchain	Techniques; Frameworks & Tools		-0.5	ASSESS

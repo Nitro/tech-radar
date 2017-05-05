@@ -87,14 +87,14 @@ radar.add(pv.Dot)
     .font("bold 40px sans-serif");
 
 //Quadrant Ledgends
-var radar_quadrant_ctr=1;
-var quadrantFontSize = 18;
-var headingFontSize = 14;
+var radar_quadrant_ctr = 1;
+var quadrantFontSize = 20;
+var headingFontSize = 18;
 var stageHeadingCount = 0;
 var lastRadius = 0;
-var lastQuadrant='';
+var lastQuadrant = '';
 var spacer = 16;
-var fontSize = 10;
+var fontSize = 16;
 var total_index = 1;
 
 
